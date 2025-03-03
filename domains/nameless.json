@@ -1,1 +1,11 @@
-
+{
+    "description": "Portfolio of nameless",
+    "repo": "https://github.com/Creative-Nerd/register",
+    "owner": {
+        "username": "Creative-Nerd",
+        "email": "[email protected]"
+    },
+    "record": {
+        "TXT": "_github-pages-challenge-Creative-Nerd"
+    }
+}
