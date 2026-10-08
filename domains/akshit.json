@@ -1,11 +1,9 @@
 {
-  "description": "Akshit's Personal Website",
-  "repo": "github.com/4kshi7/akshit2k",
   "owner": {
-    "username": "4kshi7",
-    "email": "akshitgaur2003@gmail.com"
+    "username": "akshit23",
+    "email": "akshit23sharma2000@gmail.com"
   },
-  "record": {
-    "CNAME": "akshit2k.vercel.app"
+  "records": {
+    "CNAME": "akshitsharma.netlify.app"
   }
 }

@@ -1,11 +1,9 @@
 {
-    "description": "Kelly Lawrence's personal website.",
     "owner": {
-        "email": "kelly@kellylawrence.ca",
-        "username": "kellylawrence"
+        "username": "kellyma626",
+        "email": "kellyma.dev@gmail.com"
     },
-    "record": {
-        "CNAME": "kellylawrence.github.io"
-    },
-    "repo": "https://github.com/kellylawrence/kellylawrence.github.io"
+    "records": {
+        "A": ["216.198.79.1"]
+    }
 }
